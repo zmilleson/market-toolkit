@@ -37,6 +37,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Daily Filings by Type](#filings-daily)
 - [HALTS, SHORT SELLING AND EXCHANGE RESOURCES](#halts-shorting-exchanges)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
+- [API Resources](#api)
 - [BOOKS](#books)
 	- [General Stock Market/Uncategorized](#books-general)
 	- [Active Trading and Speculation](#books-active-trading-and-speculation)
