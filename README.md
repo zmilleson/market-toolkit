@@ -117,6 +117,7 @@ There are two general approaches to investing: active and passive. Active invest
 ###### [TOC](#toc)
 ---
 **<a id="research"></a>GENERAL STOCK MARKET RESEARCH:**
+- [Fintel.io](https://fintel.io)
 - **[Finviz - Lots of free research tools](https://www.finviz.com)**
 - [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
 - [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
@@ -290,6 +291,9 @@ There are two general approaches to investing: active and passive. Active invest
 - **[Trade on the Fly - Active Trading Services](https://www.tradeonthefly.com/)**
 - [Benzinga Pro](https://pro.benzinga.com/)
 ###### [TOC](#toc)
+---
+**<a id="api"></a>APIs and API Providers:**
+- [Top 9 Best Stock Market APIs](https://rapidapi.com/blog/best-stock-api)
 ---
 **<a id="books"></a>BOOKS:**
 - <a id="books-general"></a>General Stock Market/Uncategorized
