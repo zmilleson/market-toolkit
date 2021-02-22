@@ -13,3 +13,7 @@
  ### Khan Academy
  
  Bill Ackman
+
+
+Inverse...
+  - PSQ is 1x inverse of QQQ
