@@ -37,7 +37,6 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Daily Filings by Type](#filings-daily)
 - [HALTS, SHORT SELLING AND EXCHANGE RESOURCES](#halts-shorting-exchanges)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
-- [API Resources](#api)
 - [BOOKS](#books)
 	- [General Stock Market/Uncategorized](#books-general)
 	- [Active Trading and Speculation](#books-active-trading-and-speculation)
@@ -50,6 +49,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [TWITTER ACCOUNTS](#twitter)
 	- [Individual Accounts](#twitter-individual)
 	- [Research Focus](#twitter-research)
+	- [Degen Sentiment](#degen-sentiment)
 - [DEVELOPER RESOURCES/ALGO STUFF/APIs](#developers)
 	- [General Resources](#developers-general)
 	- [Algo Trading Engines](#developers-engines)
@@ -293,9 +293,6 @@ There are two general approaches to investing: active and passive. Active invest
 - [Benzinga Pro](https://pro.benzinga.com/)
 ###### [TOC](#toc)
 ---
-**<a id="api"></a>APIs and API Providers:**
-- [Top 9 Best Stock Market APIs](https://rapidapi.com/blog/best-stock-api)
----
 **<a id="books"></a>BOOKS:**
 - <a id="books-general"></a>General Stock Market/Uncategorized
 	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
@@ -432,6 +429,8 @@ There are two general approaches to investing: active and passive. Active invest
 	 - [Kunal Desai](https://twitter.com/kunal00)
 	 - [SentimEntropy](https://twitter.com/SentimEntropy)
 	 - [0 to Hero Investing](https://twitter.com/0_hero_invest)
+	 - [Daniel Johnson](https://twitter.com/dJohnson_CPA)
+	 - [Chamath Palihapitiya](https://twitter.com/chamath)
 ###### [TOC](#toc)
 
  - <a id="twitter-research"></a>Research/Journalist/Funds/HFT:
@@ -450,6 +449,10 @@ There are two general approaches to investing: active and passive. Active invest
 	 - [Haim Bodek](https://twitter.com/HaimBodek)
 ###### [TOC](#toc)
 
+- <a id="degen-sentiment"></a>Degen Sentiment:
+	- [Swaggy Stocks](https://swaggystocks.com)
+	- [Memeberg Terminal](https://www.memebergterminal.com/)
+###### [TOC](#toc)
 ---
 **<a id="developers"></a>DEVELOPER RESOURCES:**
 - <a id="developers-general"></a>General Resources
@@ -472,6 +475,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
 	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
+	- [Top 9 Best Stock Market APIs](https://rapidapi.com/blog/best-stock-api)
 	###### [TOC](#toc)
 
 ---
