@@ -466,6 +466,7 @@ There are two general approaches to investing: active and passive. Active invest
 	###### [TOC](#toc)
 
 - <a id="developers-data"></a>Data APIs
+	- [Benzinga APIs](https://www.benzinga.com/apis/) 
 	- **[Tiingo - Enterprise Grade Financial Markets API](https://api.tiingo.com/)**
 	- [Intrinio](https://www.intrinio.com)
 	- **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
